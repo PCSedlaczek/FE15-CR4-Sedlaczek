@@ -3,19 +3,52 @@ My Weekly Planner
 
 ## Prepare
 - [x] Create private GitHub repository (FE15-CR4-Sedlaczek)
-- [ ] Files organized into separate folders (css, js, img)
+- [ ] Organize files into separate folders (css, js, img)
 - [ ] Create Task List from Project requirements
-- [ ] Research planner & task images on Pixabay
+- [ ] Research planner & task images (Pixabay, Unsplash, Pexels)
 - [ ] Link Bootstrap 5 CSS & JS from CDN
-- [ ] Link FontAwesome CSS for Hero Icons
+- [ ] Research Bootstrap Icons
+- [ ] (Link FontAwesome CSS for Icons)
 
 ## Design
 - [ ] Correct HTML, CSS and JavaScript code
 - [ ] Structured code indentation
 - [ ] Use bootstrap to help you create the provided design (at least for container holding the Tasks’ cards)
-  - [ ] col-lg-3
-  - [ ] col-md-2
-  - [ ] col-sm-1
+  - [ ] Header
+    - [ ] Navbar
+    - [ ] Hero image
+    - [ ] Title overlay
+  - [ ] Main
+    - [ ] Weekly Tasks
+    - [ ] Card grid
+      - [ ] col-lg-3
+      - [ ] col-md-2
+      - [ ] col-sm-1
+    - [ ] Task Cards
+      - [ ] Card Header
+        - [ ] Task Button
+        - [ ] Bookmark Button
+        - [ ] Drag Button
+        - [ ] Task image
+      - [ ] Card Body
+        - [ ] Task title
+        - [ ] Task description
+        - [ ] Priority level
+        - [ ] Deadline
+      - [ ] Card Footer
+        - [ ] Delete Button
+        - [ ] Done Button
+  - [ ] Footer
+    - [ ] Social Media Buttons
+      - [ ] Facebook
+      - [ ] Twitter
+      - [ ] Google+
+      - [ ] Instagram
+      - [ ] Linkedin
+      - [ ] GitHub
+    - [ ] Newsletter Signup textfield
+    - [ ] Subscribe Button
+    - [ ] Copyright info
 
 ## JavaScript
 - [ ] Correct creation of JSON file to hold Tasks information
@@ -24,6 +57,7 @@ My Weekly Planner
   - [ ] description
   - [ ] importance
   - [ ] (optional other fields)
+    - [ ] (deadline)
     - [ ] (duration)
     - [ ] (location)
     - [ ] (cost)
