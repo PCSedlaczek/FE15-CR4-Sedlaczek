@@ -16,10 +16,13 @@ My Weekly Planner
 - [ ] Use bootstrap to help you create the provided design (at least for container holding the Tasks’ cards)
   - [ ] Header
     - [ ] Navbar
+    - [ ] Notification Bell icon
+    - [ ] Notification bubble
     - [ ] Hero image
     - [ ] Title overlay
   - [ ] Main
     - [ ] Weekly Tasks
+    - [ ] Sort by priority Button
     - [ ] Card grid
       - [ ] col-lg-3
       - [ ] col-md-2
