@@ -1,0 +1,98 @@
+var tasks = `[
+  {
+    "id": "cr4",
+    "category": "Coding",
+    "image": "mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg",
+    "imageCredit": "Mohammad Rahmani | Unsplash",
+    "taskName": "CodeReview 4",
+    "description": "Create task list for “My Weekly Planner”",
+    "deadline": "05/02/2022 18:00",
+    "importance": 0,
+    "marked": true,
+    "done": false
+  },
+  {
+    "id": "1",
+    "category": "Exercise",
+    "image": "pierre9x6-5228602-pixabay.jpg",
+    "imageCredit": "Pierre9x6 | Pixabay",
+    "taskName": "Walking",
+    "description": "Go for a walk on Danube island",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "2",
+    "category": "Coding",
+    "image": "mimo_banner2.png",
+    "imageCredit": "Mimo",
+    "taskName": "Mimo Web Development",
+    "description": "Gain more XP to move up in the Golden League",
+    "deadline": "08/02/2022 05:00",
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "3",
+    "category": "Languages",
+    "image": "duolingo-diamond-league.png",
+    "imageCredit": "Duolingo",
+    "taskName": "Duolingo",
+    "description": "Gain more XP to stay in the Diamond League",
+    "deadline": "06/02/2022 21:00",
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "4",
+    "category": "Languages",
+    "image": "petri-r-QsjLjEfhlZg-unsplash.jpg",
+    "imageCredit": "Petri R. | Unsplash",
+    "taskName": "Duolingo Podcast",
+    "description": "Listen to Duolingo Spanish Podcast",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "5",
+    "category": "Self Care",
+    "image": "pexels-karolina-grabowska-4506108.jpg",
+    "imageCredit": "Karolina Grabowska | Pexels",
+    "taskName": "Self Massage",
+    "description": "Massage aching shoulders",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "6",
+    "category": "Reading",
+    "image": "pexels-picjumbocom-196649.jpg",
+    "imageCredit": "picjumbocom | Pexels",
+    "taskName": "Read eBook",
+    "description": "Start new reading streak on Kindle app",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "7",
+    "category": "Writing",
+    "image": "hannah-olinger-8eSrC43qdro-unsplash.jpg",
+    "imageCredit": "Hannah Olinger | Unsplash",
+    "taskName": "Morning Pages",
+    "description": "Get back into journal writing",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  }
+]`
