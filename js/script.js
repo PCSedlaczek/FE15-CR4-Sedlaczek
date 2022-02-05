@@ -68,7 +68,7 @@ for (let val of tasks) {
       </div>
     </div>
     `
-    
+
   var marked = document.getElementById(`mark-${val.id}`)
   var date = document.getElementById(`date-${val.id}`)
 
