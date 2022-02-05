@@ -3,88 +3,93 @@ My Weekly Planner
 
 ## Prepare
 - [x] Create private GitHub repository (FE15-CR4-Sedlaczek)
-- [ ] Organize files into separate folders (css, js, img)
-- [ ] Create Task List from Project requirements
-- [ ] Research planner & task images (Pixabay, Unsplash, Pexels)
-- [ ] Link Bootstrap 5 CSS & JS from CDN
-- [ ] Research Bootstrap Icons
-- [ ] (Link FontAwesome CSS for Icons)
+- [x] Organize files into separate folders (css, js, img)
+- [x] Create Task List from project requirements
+- [x] Research template hero image (Pexels)
+- [ ] Research task images (Pexels, Unsplash, Pixabay)
+- [x] Link Bootstrap 5 CSS & JS from CDN
+- [x] Research Bootstrap Icons
 
 ## Design
-- [ ] Correct HTML, CSS and JavaScript code
+- [x] Correct HTML, CSS and JavaScript code
 - [ ] Structured code indentation
-- [ ] Use bootstrap to help you create the provided design (at least for container holding the Tasks’ cards)
-  - [ ] Header
-    - [ ] Navbar
-    - [ ] Notification Bell icon
-    - [ ] Notification bubble
-    - [ ] Hero image
-    - [ ] Title overlay
+- [x] Use Bootstrap to help you create the provided design (at least for container holding the Tasks’ cards)
+  - [x] Header
+    - [x] Navbar
+    - [x] Notification Bell icon
+    - [x] Notification pill
+    - [x] Hero image
+    - [x] Title overlay
   - [ ] Main
-    - [ ] Weekly Tasks
+    - [x] Weekly Tasks
     - [ ] Sort by priority Button
-    - [ ] Card grid
-      - [ ] col-lg-3
-      - [ ] col-md-2
-      - [ ] col-sm-1
-    - [ ] Task Cards
-      - [ ] Card Header
-        - [ ] Task Button
-        - [ ] Bookmark Button
-        - [ ] Drag Button
-        - [ ] Task image
-      - [ ] Card Body
-        - [ ] Task title
-        - [ ] Task description
-        - [ ] Priority level
-        - [ ] Deadline
-      - [ ] Card Footer
-        - [ ] Delete Button
-        - [ ] Done Button
-  - [ ] Footer
-    - [ ] Social Media Buttons
-      - [ ] Facebook
-      - [ ] Twitter
-      - [ ] Google+
-      - [ ] Instagram
-      - [ ] Linkedin
-      - [ ] GitHub
-    - [ ] Newsletter Signup textfield
-    - [ ] Subscribe Button
-    - [ ] Copyright info
+    - [x] Card grid
+      - [x] row-cols-lg-3
+      - [x] row-cols-md-2
+      - [x] row-cols-sm-1
+    - [x] Task Cards
+      - [x] Card Header
+        - [x] Task category button
+        - [x] Bookmark button
+        - [x] Drag handle
+        - [x] Task image
+      - [x] Card Body
+        - [x] Task title
+        - [x] Task description
+        - [x] Importance button
+        - [x] Deadline
+      - [x] Card Footer
+        - [x] Delete Button
+        - [x] Done Button
+  - [x] Footer
+    - [x] Social Media Buttons
+      - [x] Facebook
+      - [x] Twitter
+      - [x] Google
+      - [x] Instagram
+      - [x] Linkedin
+      - [x] GitHub
+    - [x] Newsletter Signup textfield
+    - [x] Subscribe Button
+    - [x] Copyright info
 
 ## JavaScript
-- [ ] Correct creation of JSON file to hold Tasks information
-  - [ ] taskName
-  - [ ] image
-  - [ ] description
-  - [ ] importance
-  - [ ] (optional other fields)
-    - [ ] (deadline)
+- [x] Correct creation of JSON file to hold Tasks information
+  - [x] taskName
+  - [x] image
+  - [x] description
+  - [x] importance
+  - [x] (optional other fields)
+    - [x] (id)
+    - [x] (category)
+    - [x] (imageCredit)
+    - [x] (deadline)
+    - [x] (marked)
+    - [x] (done)
     - [ ] (duration)
     - [ ] (location)
     - [ ] (cost)
     - [ ] (etc.)
-- [ ] Correct creation of HTML/Bootstrap structure dynamically using JavaScript
+- [x] Correct creation of HTML/Bootstrap structure dynamically using JavaScript
 - [ ] Increase number of importance by 1 on click of importance button (0-5)
 - [ ] Changing background color of priority level number depending on displayed number (Bootstrap colors)
   - [ ] 0 – 1 -> Green = (success) 
   - [ ] 2 – 3 -> Yellow = (warning) 
   - [ ] 4 – 5 -> Red = (danger) 
-- [ ] initial value 0 = Green
+- [x] initial value 0 = Green
 
 ### Bonus
 - [ ] Sort button to sort resulting list of tasks according to current level of importance (ascending/descending)
 
 ## Extend
+- [ ] Write Priority level value to localStorage
 - [ ] Button to switch between card and list layout
-- [ ] Write Task List to localStorage
-- [ ] Delete function for Tasks
-- [ ] Done function for Tasks
+- [ ] Implement Delete function for Tasks
+- [ ] Implement Done function for Tasks
 
 ## Finish
-- [ ] Check website design against template image guide
-- [ ] Test page responsiveness on desktop, tablet and mobile
+- [x] Check website design against template image guide
+- [x] Test page responsiveness on desktop, tablet and mobile
 - [ ] Test JavaScript functions
 - [ ] Format documents in Visual Studio Code
 - [ ] Push files to GitHub repository
