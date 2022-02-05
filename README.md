@@ -6,13 +6,13 @@ My Weekly Planner
 - [x] Organize files into separate folders (css, js, img)
 - [x] Create Task List from project requirements
 - [x] Research template hero image (Pexels)
-- [ ] Research task images (Pexels, Unsplash, Pixabay)
+- [x] Research task images (Pexels, Unsplash, Pixabay)
 - [x] Link Bootstrap 5 CSS & JS from CDN
 - [x] Research Bootstrap Icons
 
 ## Design
 - [x] Correct HTML, CSS and JavaScript code
-- [ ] Structured code indentation
+- [x] Structured code indentation
 - [x] Use Bootstrap to help you create the provided design (at least for container holding the Tasks’ cards)
   - [x] Header
     - [x] Navbar
@@ -91,9 +91,9 @@ My Weekly Planner
 - [x] Check website design against template image guide
 - [x] Test page responsiveness on desktop, tablet and mobile
 - [ ] Test JavaScript functions
-- [ ] Format documents in Visual Studio Code
-- [ ] Push files to GitHub repository
-- [ ] Send repository link through LMS
+- [x] Format documents in Visual Studio Code
+- [x] Push files to GitHub repository
+- [x] Send repository link through LMS
 - [ ] Invite codefactorygit as collaborator
 
-Work time:  hrs
+Work time: 13:30 hrs
