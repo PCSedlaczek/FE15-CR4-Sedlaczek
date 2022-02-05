@@ -61,6 +61,18 @@ var tasks = `[
   },
   {
     "id": "5",
+    "category": "Outdoor",
+    "image": "APA-Gurgeltest.jpg",
+    "imageCredit": "APA",
+    "taskName": "PCR Test",
+    "description": "Get tested for next week at CodeFactory",
+    "deadline": "06/02/2022 9:00",
+    "importance": 0,
+    "marked": true,
+    "done": false
+  },
+  {
+    "id": "6",
     "category": "Shopping",
     "image": "spar.jpg",
     "imageCredit": "SPAR",
@@ -72,7 +84,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "6",
+    "id": "7",
     "category": "Shopping",
     "image": "LIDL.jpg",
     "imageCredit": "LIDL",
@@ -84,7 +96,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "7",
+    "id": "8",
     "category": "Shopping",
     "image": "hofer.jpg",
     "imageCredit": "HOFER",
@@ -96,8 +108,8 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "8",
-    "category": "Exercise",
+    "id": "9",
+    "category": "Outdoor",
     "image": "pierre9x6-5228602-pixabay.jpg",
     "imageCredit": "Pierre9x6 | Pixabay",
     "taskName": "Walk in Nature",
@@ -108,7 +120,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "9",
+    "id": "10",
     "category": "Self Care",
     "image": "pexels-karolina-grabowska-4506108.jpg",
     "imageCredit": "Karolina Grabowska | Pexels",
@@ -120,7 +132,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "10",
+    "id": "11",
     "category": "Reading",
     "image": "pexels-picjumbocom-196649.jpg",
     "imageCredit": "picjumbocom | Pexels",
@@ -132,7 +144,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "11",
+    "id": "12",
     "category": "Writing",
     "image": "hannah-olinger-8eSrC43qdro-unsplash.jpg",
     "imageCredit": "Hannah Olinger | Unsplash",
