@@ -20,9 +20,9 @@ My Weekly Planner
     - [x] Notification pill
     - [x] Hero image
     - [x] Title overlay
-  - [ ] Main
+  - [x] Main
     - [x] Weekly Tasks
-    - [ ] Sort by priority Button
+    - [x] Sort by priority Button
     - [x] Card grid
       - [x] row-cols-lg-3
       - [x] row-cols-md-2
@@ -79,13 +79,18 @@ My Weekly Planner
 - [x] initial value 0 = Green
 
 ### Bonus
-- [ ] Sort button to sort resulting list of tasks according to current level of importance (ascending/descending)
+- [ ] Sort button to sort task list according to current level of importance (ascending/descending)
 
 ## Extend
+- [x] Change Bookmark icon color according to "marked" value
+- [ ] Change Done button color according to "done" value
 - [ ] Write Priority level value to localStorage
 - [ ] Button to switch between card and list layout
 - [ ] Implement Delete function for Tasks
 - [ ] Implement Done function for Tasks
+- [ ] Sort button to sort task list according to task deadline
+- [ ] Group task list according to list category
+- [ ] Group completed tasks in Completed section at the bottom
 
 ## Finish
 - [x] Check website design against template image guide
@@ -96,4 +101,4 @@ My Weekly Planner
 - [x] Send repository link through LMS
 - [ ] Invite codefactorygit as collaborator
 
-Work time: 13:30 hrs
+Work time: 20:00 hrs
