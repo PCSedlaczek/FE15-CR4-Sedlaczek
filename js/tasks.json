@@ -1,6 +1,5 @@
 var tasks = `[
   {
-    "id": "1",
     "category": "Coding",
     "image": "mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg",
     "imageCredit": "Mohammad Rahmani | Unsplash",
@@ -12,7 +11,6 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "2",
     "category": "Coding",
     "image": "mimo_banner.png",
     "imageCredit": "Mimo",
@@ -24,7 +22,6 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "3",
     "category": "Coding",
     "image": "prework.png",
     "imageCredit": "CodeFactory",
@@ -36,7 +33,6 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "4",
     "category": "Language",
     "image": "duo-harder-lesson.gif",
     "imageCredit": "Duolingo",
@@ -48,7 +44,6 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "5",
     "category": "Finance",
     "image": "amsmaus.jpg",
     "imageCredit": "AMS",
@@ -60,7 +55,6 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "6",
     "category": "Shopping",
     "image": "marktguru.png",
     "imageCredit": "Marktguru",
@@ -72,7 +66,6 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "7",
     "category": "Digital",
     "image": "iphone.png",
     "imageCredit": "Apple",
@@ -80,11 +73,10 @@ var tasks = `[
     "description": "Free up storage space on iPhone SE",
     "deadline": false,
     "importance": 0,
-    "marked": true,
+    "marked": false,
     "done": false
   },
   {
-    "id": "8",
     "category": "Health",
     "image": "pcr-termin.jpg",
     "imageCredit": "wien.gv.at",
@@ -96,7 +88,6 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "9",
     "category": "Health",
     "image": "pierre9x6-5228602-pixabay.jpg",
     "imageCredit": "Pierre9x6 | Pixabay",
@@ -108,8 +99,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "10",
-    "category": "Health",
+     "category": "Health",
     "image": "pcr.jpg",
     "imageCredit": "Pichler | DER STANDARD",
     "taskName": "PCR test",
@@ -120,8 +110,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "11",
-    "category": "Self Care",
+     "category": "Self Care",
     "image": "pexels-karolina-grabowska-4506108.jpg",
     "imageCredit": "Karolina Grabowska | Pexels",
     "taskName": "Self Massage",
@@ -132,8 +121,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "12",
-    "category": "Self Care",
+     "category": "Self Care",
     "image": "dane-wetton-t1NEMSm1rgI-unsplash.jpg",
     "imageCredit": "Dane Wetton | Unsplash",
     "taskName": "Yoga & Stretching",
@@ -144,8 +132,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "13",
-    "category": "Self Care",
+     "category": "Self Care",
     "image": "bruce-mars-Q_iJuyRdy4c-unsplash.jpg",
     "imageCredit": "Bruce Mars | Unsplash",
     "taskName": "Hot bath",
@@ -156,8 +143,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "14",
-    "category": "Health",
+     "category": "Health",
     "image": "gefrorene_wand-203939-pixabay.jpg",
     "imageCredit": "Gefrorene Wand | Pixabay",
     "taskName": "Cold therapy",
@@ -168,8 +154,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "15",
-    "category": "Health",
+     "category": "Health",
     "image": "marco-tjokro-Mgp5PGAsFg4-unsplash.jpg",
     "imageCredit": "Marco Tjokro | Unsplash",
     "taskName": "Go for a run",
@@ -180,8 +165,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "16",
-    "category": "Shopping",
+     "category": "Shopping",
     "image": "spar.jpg",
     "imageCredit": "SPAR | Google Maps",
     "taskName": "Trip to SPAR",
@@ -192,8 +176,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "17",
-    "category": "Shopping",
+     "category": "Shopping",
     "image": "LIDL.jpg",
     "imageCredit": "LIDL | Google Maps",
     "taskName": "Trip to LIDL",
@@ -204,8 +187,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "18",
-    "category": "Shopping",
+     "category": "Shopping",
     "image": "hofer.jpg",
     "imageCredit": "HOFER | Google Maps",
     "taskName": "Trip to HOFER",
@@ -216,8 +198,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "19",
-    "category": "Reading",
+     "category": "Reading",
     "image": "pexels-picjumbocom-196649.jpg",
     "imageCredit": "picjumbocom | Pexels",
     "taskName": "Read eBook",
@@ -228,8 +209,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "20",
-    "category": "Writing",
+     "category": "Writing",
     "image": "hannah-olinger-8eSrC43qdro-unsplash.jpg",
     "imageCredit": "Hannah Olinger | Unsplash",
     "taskName": "Write Morning Pages",
