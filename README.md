@@ -84,7 +84,7 @@ My Weekly Planner
 
 ## Extend
 - [x] Change Bookmark icon color according to "marked" value
-- [ ] Change Done button color according to "done" value
+- [x] Change Done button according to "done" value
 - [ ] Write Priority level value to localStorage
 - [ ] Button to switch between card and list layout
 - [ ] Implement Delete function for Tasks
