@@ -52,7 +52,7 @@ var tasks = `[
     "deadline": false,
     "importance": 0,
     "marked": true,
-    "done": false
+    "done": true
   },
   {
     "category": "Shopping",
@@ -85,7 +85,7 @@ var tasks = `[
     "deadline": false,
     "importance": 0,
     "marked": true,
-    "done": false
+    "done": true
   },
   {
     "category": "Health",
@@ -95,11 +95,11 @@ var tasks = `[
     "description": "Walk to PCR test lane on Danube island",
     "deadline": false,
     "importance": 0,
-    "marked": false,
-    "done": false
+    "marked": true,
+    "done": true
   },
   {
-     "category": "Health",
+    "category": "Health",
     "image": "pcr.jpg",
     "imageCredit": "Pichler | DER STANDARD",
     "taskName": "PCR test",
@@ -107,10 +107,10 @@ var tasks = `[
     "deadline": "06/02/2022 9:00",
     "importance": 0,
     "marked": true,
-    "done": false
+    "done": true
   },
   {
-     "category": "Self Care",
+    "category": "Self Care",
     "image": "pexels-karolina-grabowska-4506108.jpg",
     "imageCredit": "Karolina Grabowska | Pexels",
     "taskName": "Self Massage",
@@ -121,7 +121,7 @@ var tasks = `[
     "done": false
   },
   {
-     "category": "Self Care",
+    "category": "Self Care",
     "image": "dane-wetton-t1NEMSm1rgI-unsplash.jpg",
     "imageCredit": "Dane Wetton | Unsplash",
     "taskName": "Yoga & Stretching",
@@ -132,7 +132,7 @@ var tasks = `[
     "done": false
   },
   {
-     "category": "Self Care",
+    "category": "Self Care",
     "image": "bruce-mars-Q_iJuyRdy4c-unsplash.jpg",
     "imageCredit": "Bruce Mars | Unsplash",
     "taskName": "Hot bath",
@@ -143,7 +143,7 @@ var tasks = `[
     "done": false
   },
   {
-     "category": "Health",
+    "category": "Health",
     "image": "gefrorene_wand-203939-pixabay.jpg",
     "imageCredit": "Gefrorene Wand | Pixabay",
     "taskName": "Cold therapy",
@@ -154,7 +154,7 @@ var tasks = `[
     "done": false
   },
   {
-     "category": "Health",
+    "category": "Health",
     "image": "marco-tjokro-Mgp5PGAsFg4-unsplash.jpg",
     "imageCredit": "Marco Tjokro | Unsplash",
     "taskName": "Go for a run",
@@ -165,7 +165,7 @@ var tasks = `[
     "done": false
   },
   {
-     "category": "Shopping",
+    "category": "Shopping",
     "image": "spar.jpg",
     "imageCredit": "SPAR | Google Maps",
     "taskName": "Trip to SPAR",
@@ -176,7 +176,7 @@ var tasks = `[
     "done": false
   },
   {
-     "category": "Shopping",
+    "category": "Shopping",
     "image": "LIDL.jpg",
     "imageCredit": "LIDL | Google Maps",
     "taskName": "Trip to LIDL",
@@ -187,7 +187,7 @@ var tasks = `[
     "done": false
   },
   {
-     "category": "Shopping",
+    "category": "Shopping",
     "image": "hofer.jpg",
     "imageCredit": "HOFER | Google Maps",
     "taskName": "Trip to HOFER",
@@ -198,7 +198,7 @@ var tasks = `[
     "done": false
   },
   {
-     "category": "Reading",
+    "category": "Reading",
     "image": "pexels-picjumbocom-196649.jpg",
     "imageCredit": "picjumbocom | Pexels",
     "taskName": "Read eBook",
@@ -209,7 +209,7 @@ var tasks = `[
     "done": false
   },
   {
-     "category": "Writing",
+    "category": "Writing",
     "image": "hannah-olinger-8eSrC43qdro-unsplash.jpg",
     "imageCredit": "Hannah Olinger | Unsplash",
     "taskName": "Write Morning Pages",
