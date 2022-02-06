@@ -1,6 +1,6 @@
 var tasks = `[
   {
-    "id": "0",
+    "id": "1",
     "category": "Coding",
     "image": "mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg",
     "imageCredit": "Mohammad Rahmani | Unsplash",
@@ -12,7 +12,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "1",
+    "id": "2",
     "category": "Coding",
     "image": "mimo_banner.png",
     "imageCredit": "Mimo",
@@ -24,7 +24,19 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "2",
+    "id": "3",
+    "category": "Coding",
+    "image": "prework.png",
+    "imageCredit": "CodeFactory",
+    "taskName": "JavaScript Day 7 Pre-work",
+    "description": "Read Pre-work for monday",
+    "deadline": "07/02/2022 09:00",
+    "importance": 0,
+    "marked": true,
+    "done": false
+  },
+  {
+    "id": "4",
     "category": "Language",
     "image": "duo-harder-lesson.gif",
     "imageCredit": "Duolingo",
@@ -36,7 +48,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "3",
+    "id": "5",
     "category": "Finance",
     "image": "amsmaus.jpg",
     "imageCredit": "AMS",
@@ -48,7 +60,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "10",
+    "id": "6",
     "category": "Shopping",
     "image": "marktguru.png",
     "imageCredit": "Marktguru",
@@ -60,7 +72,19 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "4",
+    "id": "7",
+    "category": "Digital",
+    "image": "iphone.png",
+    "imageCredit": "Apple",
+    "taskName": "iPhone Storage",
+    "description": "Free up storage space on iPhone SE",
+    "deadline": false,
+    "importance": 0,
+    "marked": true,
+    "done": false
+  },
+  {
+    "id": "8",
     "category": "Health",
     "image": "pcr-termin.jpg",
     "imageCredit": "wien.gv.at",
@@ -72,7 +96,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "5",
+    "id": "9",
     "category": "Health",
     "image": "pierre9x6-5228602-pixabay.jpg",
     "imageCredit": "Pierre9x6 | Pixabay",
@@ -84,7 +108,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "6",
+    "id": "10",
     "category": "Health",
     "image": "pcr.jpg",
     "imageCredit": "Pichler | DER STANDARD",
@@ -96,7 +120,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "7",
+    "id": "11",
     "category": "Self Care",
     "image": "pexels-karolina-grabowska-4506108.jpg",
     "imageCredit": "Karolina Grabowska | Pexels",
@@ -108,7 +132,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "8",
+    "id": "12",
     "category": "Self Care",
     "image": "dane-wetton-t1NEMSm1rgI-unsplash.jpg",
     "imageCredit": "Dane Wetton | Unsplash",
@@ -120,7 +144,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "9",
+    "id": "13",
     "category": "Self Care",
     "image": "bruce-mars-Q_iJuyRdy4c-unsplash.jpg",
     "imageCredit": "Bruce Mars | Unsplash",
@@ -156,7 +180,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "11",
+    "id": "16",
     "category": "Shopping",
     "image": "spar.jpg",
     "imageCredit": "SPAR | Google Maps",
@@ -168,7 +192,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "12",
+    "id": "17",
     "category": "Shopping",
     "image": "LIDL.jpg",
     "imageCredit": "LIDL | Google Maps",
@@ -180,7 +204,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "13",
+    "id": "18",
     "category": "Shopping",
     "image": "hofer.jpg",
     "imageCredit": "HOFER | Google Maps",
@@ -192,7 +216,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "16",
+    "id": "19",
     "category": "Reading",
     "image": "pexels-picjumbocom-196649.jpg",
     "imageCredit": "picjumbocom | Pexels",
@@ -204,7 +228,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "17",
+    "id": "20",
     "category": "Writing",
     "image": "hannah-olinger-8eSrC43qdro-unsplash.jpg",
     "imageCredit": "Hannah Olinger | Unsplash",
