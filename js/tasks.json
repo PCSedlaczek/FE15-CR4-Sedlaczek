@@ -1,6 +1,6 @@
 var tasks = `[
   {
-    "id": "cr4",
+    "id": "0",
     "category": "Coding",
     "image": "mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg",
     "imageCredit": "Mohammad Rahmani | Unsplash",
@@ -48,7 +48,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "4",
+    "id": "10",
     "category": "Shopping",
     "image": "marktguru.png",
     "imageCredit": "Marktguru",
@@ -60,11 +60,35 @@ var tasks = `[
     "done": false
   },
   {
+    "id": "4",
+    "category": "Health",
+    "image": "pcr-termin.jpg",
+    "imageCredit": "wien.gv.at",
+    "taskName": "PCR test appointment",
+    "description": "Make reservation for PCR test lane",
+    "deadline": false,
+    "importance": 0,
+    "marked": true,
+    "done": false
+  },
+  {
     "id": "5",
-    "category": "Outdoor",
-    "image": "APA-Gurgeltest.jpg",
-    "imageCredit": "APA",
-    "taskName": "PCR Test",
+    "category": "Health",
+    "image": "pierre9x6-5228602-pixabay.jpg",
+    "imageCredit": "Pierre9x6 | Pixabay",
+    "taskName": "Morning walk",
+    "description": "Walk to PCR test lane on Danube island",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "6",
+    "category": "Health",
+    "image": "pcr.jpg",
+    "imageCredit": "Pichler | DER STANDARD",
+    "taskName": "PCR test",
     "description": "Get tested for next week at CodeFactory",
     "deadline": "06/02/2022 9:00",
     "importance": 0,
@@ -72,55 +96,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "6",
-    "category": "Shopping",
-    "image": "spar.jpg",
-    "imageCredit": "SPAR",
-    "taskName": "Go to SPAR",
-    "description": "Weekly shopping at SPAR",
-    "deadline": false,
-    "importance": 0,
-    "marked": false,
-    "done": false
-  },
-  {
     "id": "7",
-    "category": "Shopping",
-    "image": "LIDL.jpg",
-    "imageCredit": "LIDL",
-    "taskName": "Go to LIDL",
-    "description": "Weekly shopping at LIDL",
-    "deadline": false,
-    "importance": 0,
-    "marked": false,
-    "done": false
-  },
-  {
-    "id": "8",
-    "category": "Shopping",
-    "image": "hofer.jpg",
-    "imageCredit": "HOFER",
-    "taskName": "Go to HOFER",
-    "description": "Weekly shopping at HOFER",
-    "deadline": false,
-    "importance": 0,
-    "marked": false,
-    "done": false
-  },
-  {
-    "id": "9",
-    "category": "Outdoor",
-    "image": "pierre9x6-5228602-pixabay.jpg",
-    "imageCredit": "Pierre9x6 | Pixabay",
-    "taskName": "Walk in Nature",
-    "description": "Go for a walk on Danube island",
-    "deadline": false,
-    "importance": 0,
-    "marked": false,
-    "done": false
-  },
-  {
-    "id": "10",
     "category": "Self Care",
     "image": "pexels-karolina-grabowska-4506108.jpg",
     "imageCredit": "Karolina Grabowska | Pexels",
@@ -132,7 +108,91 @@ var tasks = `[
     "done": false
   },
   {
+    "id": "8",
+    "category": "Self Care",
+    "image": "dane-wetton-t1NEMSm1rgI-unsplash.jpg",
+    "imageCredit": "Dane Wetton | Unsplash",
+    "taskName": "Yoga & Stretching",
+    "description": "Stretch to ease neck & shoulder pain",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "9",
+    "category": "Self Care",
+    "image": "bruce-mars-Q_iJuyRdy4c-unsplash.jpg",
+    "imageCredit": "Bruce Mars | Unsplash",
+    "taskName": "Hot bath",
+    "description": "Take hot bath to relax neck & shoulders",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "14",
+    "category": "Health",
+    "image": "gefrorene_wand-203939-pixabay.jpg",
+    "imageCredit": "Gefrorene Wand | Pixabay",
+    "taskName": "Cold therapy",
+    "description": "Take cold foot bath in Neue Donau",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "15",
+    "category": "Health",
+    "image": "marco-tjokro-Mgp5PGAsFg4-unsplash.jpg",
+    "imageCredit": "Marco Tjokro | Unsplash",
+    "taskName": "Go for a run",
+    "description": "Get back into running on Danube island",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
     "id": "11",
+    "category": "Shopping",
+    "image": "spar.jpg",
+    "imageCredit": "SPAR | Google Maps",
+    "taskName": "Trip to SPAR",
+    "description": "Weekly shopping at SPAR",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "12",
+    "category": "Shopping",
+    "image": "LIDL.jpg",
+    "imageCredit": "LIDL | Google Maps",
+    "taskName": "Trip to LIDL",
+    "description": "Weekly shopping at LIDL",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "13",
+    "category": "Shopping",
+    "image": "hofer.jpg",
+    "imageCredit": "HOFER | Google Maps",
+    "taskName": "Trip to HOFER",
+    "description": "Weekly shopping at HOFER",
+    "deadline": false,
+    "importance": 0,
+    "marked": false,
+    "done": false
+  },
+  {
+    "id": "16",
     "category": "Reading",
     "image": "pexels-picjumbocom-196649.jpg",
     "imageCredit": "picjumbocom | Pexels",
@@ -144,7 +204,7 @@ var tasks = `[
     "done": false
   },
   {
-    "id": "12",
+    "id": "17",
     "category": "Writing",
     "image": "hannah-olinger-8eSrC43qdro-unsplash.jpg",
     "imageCredit": "Hannah Olinger | Unsplash",
