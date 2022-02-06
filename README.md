@@ -9,6 +9,7 @@ My Weekly Planner
 - [x] Research task images (Pexels, Unsplash, Pixabay)
 - [x] Link Bootstrap 5 CSS & JS from CDN
 - [x] Research Bootstrap Icons
+- [x] Re-read notes from all JavaScript Live-codings
 
 ## Design
 - [x] Correct HTML, CSS and JavaScript code
@@ -71,11 +72,11 @@ My Weekly Planner
     - [ ] (cost)
     - [ ] (etc.)
 - [x] Correct creation of HTML/Bootstrap structure dynamically using JavaScript
-- [ ] Increase number of importance by 1 on click of importance button (0-5)
-- [ ] Changing background color of priority level number depending on displayed number (Bootstrap colors)
-  - [ ] 0 – 1 -> Green = (success) 
-  - [ ] 2 – 3 -> Yellow = (warning) 
-  - [ ] 4 – 5 -> Red = (danger) 
+- [x] Increase number of importance by 1 on click of importance button (0-5)
+- [x] Changing background color of priority level number depending on displayed number (Bootstrap colors)
+  - [x] 0 – 1 -> Green = (success) 
+  - [x] 2 – 3 -> Yellow = (warning) 
+  - [x] 4 – 5 -> Red = (danger) 
 - [x] initial value 0 = Green
 
 ### Bonus
@@ -95,10 +96,10 @@ My Weekly Planner
 ## Finish
 - [x] Check website design against template image guide
 - [x] Test page responsiveness on desktop, tablet and mobile
-- [ ] Test JavaScript functions
+- [x] Test JavaScript functions
 - [x] Format documents in Visual Studio Code
 - [x] Push files to GitHub repository
 - [x] Send repository link through LMS
 - [ ] Invite codefactorygit as collaborator
 
-Work time: 20:00 hrs
+Work time: 22:00 hrs
