@@ -1,4 +1,4 @@
-var tasks = `[
+let tasks = `[
   {
     "category": "Coding",
     "image": "mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg",
@@ -15,7 +15,7 @@ var tasks = `[
     "image": "mimo_banner.png",
     "imageCredit": "Mimo",
     "taskName": "Mimo Web Development",
-    "description": "Gain XP to move up in the Golden League",
+    "description": "Gain XP to advance in the Golden League",
     "deadline": "08/02/2022 05:00",
     "importance": 0,
     "marked": false,
@@ -30,7 +30,7 @@ var tasks = `[
     "deadline": "07/02/2022 09:00",
     "importance": 0,
     "marked": true,
-    "done": false
+    "done": true
   },
   {
     "category": "Language",
@@ -40,8 +40,8 @@ var tasks = `[
     "description": "Gain XP to stay in the Diamond League",
     "deadline": "06/02/2022 21:00",
     "importance": 0,
-    "marked": false,
-    "done": false
+    "marked": true,
+    "done": true
   },
   {
     "category": "Finance",
@@ -140,7 +140,7 @@ var tasks = `[
     "deadline": false,
     "importance": 0,
     "marked": false,
-    "done": false
+    "done": true
   },
   {
     "category": "Health",
@@ -173,7 +173,7 @@ var tasks = `[
     "deadline": false,
     "importance": 0,
     "marked": false,
-    "done": false
+    "done": true
   },
   {
     "category": "Shopping",
